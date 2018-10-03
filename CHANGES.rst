@@ -4,7 +4,8 @@ Changelog
 3.2.5.2 (unreleased)
 ====================
 
-- Nothing changed yet.
+- Typo.
+  [bsuttor]
 
 
 3.2.5.1 (2018-05-30)
