@@ -1,7 +1,7 @@
 Changelog
 ---------
 
-3.2.5.3 (unreleased)
+3.2.5.3 (2019-02-05)
 ====================
 
 - Fix typo & sentence for GDPR checkbox
