@@ -4,7 +4,8 @@ Changelog
 3.2.5.3 (unreleased)
 ====================
 
-- Nothing changed yet.
+- Fix typo & sentence for GDPR checkbox
+  [laulaz]
 
 
 3.2.5.2 (2018-10-03)

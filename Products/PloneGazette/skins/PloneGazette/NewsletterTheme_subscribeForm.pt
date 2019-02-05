@@ -104,7 +104,7 @@ $(document).ready(function() {
 
   <!-- RGPD -->
   <input type="checkbox" id="RGPDCheck" name="subscribe" i18n:translate="rgpd_text">
-  <label for="RGPDCheck">En cochant la case, vous acceptez que les informations que vous fournissez seront trai&eacute;es conformément &agrave; notre
+  <label for="RGPDCheck">En cochant la case, vous acceptez que les informations que vous fournissez soient trait&eacute;es conformément &agrave; notre
     <a href="gdpr-view">politique de confidentialit&eacute;</a></label>
 
   <!-- HTML mode Field -->
